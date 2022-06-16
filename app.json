@@ -7,9 +7,9 @@
         "Heroku",
         "PyrogramUserBot"
     ],
-    "repository": "https://github.com/AnnabelleTG/Annabelle",
+    "repository": "https://github.com/khushdeepsandhra/Annabelle",
     "website": "https://t.me/AnnabelleUB",
-    "success_url": "https://github.com/AnnabelleTG/Annabelle",
+    "success_url": "https://github.com/khushdeepsandhra/Annabelle",
     "env": {
         "API_ID": {
             "description": "API_ID from website or bot",
